@@ -3,7 +3,7 @@ Here is my collection of configs used for my CS:GO autoexec config. It's useful 
 
 ### Video Demonstration
 Here's a little demo of my config in action.
-*[H34dSPace CS:GO config demo](#)
+* [H34dSPace CS:GO config demo](#)
 **Will be updated when video is uploaded**
 
 ## Installation
@@ -80,9 +80,9 @@ Resets server variables for solo practice. Good for nade lineups and more.
 
 
 ## Credits
-*[Base Concept(Ryzer)](https://github.com/ryzr/csgo-autoexec)
-*[Config Ideas(KiloSwiss)](https://gist.github.com/KiloSwiss/a015b0620284ce74b5ed849ec599e51e)
-*[MultiBound Keys](https://settings.gg/bananagaming)
+* [Base Concept(Ryzer)](https://github.com/ryzr/csgo-autoexec)
+* [Config Ideas(KiloSwiss)](https://gist.github.com/KiloSwiss/a015b0620284ce74b5ed849ec599e51e)
+* [MultiBound Keys](https://settings.gg/bananagaming)
 
 ## License
 
