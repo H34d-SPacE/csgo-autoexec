@@ -3,8 +3,7 @@ Here is my collection of configs used for my CS:GO autoexec config. It's useful 
 
 ### Video Demonstration
 Here's a little demo of my config in action.
-* [H34dSPace CS:GO config demo](#)
-**Will be updated when video is uploaded**
+* [H34dSPace's CS:GO config demo](https://youtu.be/MbmYBsV9rOU)
 
 ## Installation
 
@@ -15,7 +14,7 @@ Save them to your CS:GO config directory:
 * Single User:
   * `${STEAM_DIR}/userdata/${SingleUserID}/730/local/cfg`
 
-* **${STEAM_DIR}** typically `*C:/Program Files/Steam*`
+* **${STEAM_DIR}** typically `C:/Program Files/Steam`
 * **${SingleUserID}** is your `STEAMID number`.
 
 #### Set Launch Options
@@ -86,4 +85,4 @@ Resets server variables for solo practice. Good for nade lineups and more.
 
 ## License
 
-You're free to use, modify, redistribute, etc as you please. Attribution appreciated but not necessary.
+You're free to use, modify, redistribute, etc as you please. Attribution is appreciated.
