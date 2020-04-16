@@ -15,8 +15,8 @@ Save them to your CS:GO config directory:
 * Single User:
   * `${STEAM_DIR}/userdata/${SingleUserID}/730/local/cfg`
 
-**${STEAM_DIR}** typically *C:/Program Files/Steam*
-**${SingleUserID}** is your STEAMID number.
+* **${STEAM_DIR}** typically `*C:/Program Files/Steam*`
+* **${SingleUserID}** is your `STEAMID number`.
 
 #### Set Launch Options
 To force execute it every start you need to add the following to your launch options:
