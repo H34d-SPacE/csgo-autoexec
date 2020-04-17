@@ -4,7 +4,8 @@ If you like it leave a like or comment on the video.
 
 ### Video Demonstration
 Here's a little demo of my config in action.
-* [![H34dSPace's CS:GO config demo](https://img.youtube.com/vi/MbmYBsV9rOU/mqdefault.jpg)](https://youtu.be/MbmYBsV9rOU)
+
+[![H34dSPace's CS:GO config demo](https://img.youtube.com/vi/MbmYBsV9rOU/mqdefault.jpg)](https://youtu.be/MbmYBsV9rOU)
 
 ## Installation
 
