@@ -1,9 +1,10 @@
 # CS:GO Autoexec
 Here is my collection of configs used for my CS:GO autoexec config. It's useful and handy for me. I'm putting it out there incase someone else thinks it's useful for them. 
+If you like it leave a like or comment on the video.
 
 ### Video Demonstration
 Here's a little demo of my config in action.
-* [H34dSPace's CS:GO config demo](https://youtu.be/MbmYBsV9rOU)
+* [![H34dSPace's CS:GO config demo](https://img.youtube.com/vi/MbmYBsV9rOU/mqdefault.jpg)](https://youtu.be/MbmYBsV9rOU)
 
 ## Installation
 
